@@ -1,0 +1,10 @@
+package marcroig.designcode;
+
+public class Producto {
+	public int ID;
+	public String Nombre;
+	public String Marca;
+	public String Imagenes;
+	public String Descripcion;
+	public Float PrecioBase;
+}

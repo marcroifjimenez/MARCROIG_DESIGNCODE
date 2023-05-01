@@ -1,0 +1,11 @@
+package marcroig.designcode;
+
+public class Usuarios {
+	public String Nombre;
+	public String Apellido;
+	public String Email;
+	public String Contraseña;
+	public int Telefono;
+	public String Direccion;
+	public String DNI;
+}

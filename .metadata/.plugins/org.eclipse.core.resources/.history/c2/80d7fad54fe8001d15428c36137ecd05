@@ -1,0 +1,17 @@
+package marcroig.designcode;
+
+import java.util.List;
+
+public class Producto {
+	public int ID;
+	public String Nombre;
+	public String Marca;
+	public String Imagenes;
+	public String Descripcion;
+	public Float PrecioBase;
+	public Float Descuento;
+	public String Clasificacion;
+	public List<String> Tags;
+	public String Categoria;
+	public String SubCategoria;
+}

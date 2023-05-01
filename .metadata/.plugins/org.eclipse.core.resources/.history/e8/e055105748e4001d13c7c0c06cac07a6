@@ -1,0 +1,8 @@
+package marcroig.designcode;
+
+public class Pedidos {
+	public String NumPedido;
+	public String FechaPedido;
+	public String Productos;
+	public int Cantidad;
+}
